@@ -63,6 +63,9 @@ Tomcat:
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
 https://stackoverflow.com/questions/36703856/access-tomcat-manager-app-from-different-host
 
+Form:
+https://bootsnipp.com/forms
+
 # Python stuff
 
 Tensor JSON serialisation:
