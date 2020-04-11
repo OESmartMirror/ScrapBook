@@ -61,6 +61,7 @@ https://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
 
 Tomcat:
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
+https://stackoverflow.com/questions/36703856/access-tomcat-manager-app-from-different-host
 
 # Python stuff
 
