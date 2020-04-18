@@ -69,6 +69,9 @@ https://bootsnipp.com/forms
 Download:
 https://www.baeldung.com/servlet-download-file
 
+For multipart form enctype and parameter:
+https://stackoverflow.com/questions/20394292/how-to-pass-parameter-in-multipart-post-request
+
 # Python stuff
 
 Tensor JSON serialisation:
