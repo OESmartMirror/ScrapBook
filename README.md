@@ -66,6 +66,9 @@ https://stackoverflow.com/questions/36703856/access-tomcat-manager-app-from-diff
 Form:
 https://bootsnipp.com/forms
 
+Download:
+https://www.baeldung.com/servlet-download-file
+
 # Python stuff
 
 Tensor JSON serialisation:
