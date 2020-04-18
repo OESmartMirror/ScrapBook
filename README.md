@@ -71,6 +71,7 @@ https://www.baeldung.com/servlet-download-file
 
 For multipart form enctype and parameter:
 https://stackoverflow.com/questions/20394292/how-to-pass-parameter-in-multipart-post-request
+https://stackoverflow.com/questions/1494979/how-to-retrieve-multiple-values-from-the-select-field-using-commons-file-upload
 
 # Python stuff
 
