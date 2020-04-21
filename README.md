@@ -1,6 +1,8 @@
 # ScrapBook
 Scrapbook for planning new features and the technologies to achieve them
 
+https://www.ntu.edu.sg/home/ehchua/programming/index.html#HowTo
+
 
 Lorem ipsum generaot to fill up now empty spaces:
 https://hipsum.co/
